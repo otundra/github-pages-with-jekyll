@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Ra's Blog!!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Mi nombre es Caballero de la Otundra, y he venido a retarte
